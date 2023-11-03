@@ -45,6 +45,9 @@ header nav ul li a{
     gap: 1em;
 }
 
+div.greeting {
+    background-color: rgb(236, 228, 229); 
+}
     
 
 
